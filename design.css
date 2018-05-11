@@ -262,6 +262,9 @@ button:focus {
 
 .main .items li:hover {
     cursor: pointer;
+    color: #212529;
+    background-color: #e2e6ea;
+    border-color: #dae0e5;
 }
 
 .main .items .image {
